@@ -1,176 +1,69 @@
 [
 	{
 		"featured": true,
-		"path": "wooden-table",
-		"title": "Brown wooden table",
+		"path": "black-mug",
+		"title": "Black Mug",
 		"tags":["Shop"],
-		"date": "2021-07-17",
-		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos impedit asperiores ducimus placeat unde, distinctio consequuntur fuga sint possimus ut dolor corrupti quae nemo doloribus rerum mollitia quas! Excepturi, alias.",
+		"date": "2025-03-15",
+		"description": "Sleek and stylish black mug, perfect for your morning tea, coffee, or any hot beverage. Crafted for comfort and durability, it’s your go-to cup for a cozy sip every time.",
 		"image": {
-			"alt": "Photo by Nugroho Wahyu from Pexels https://www.pexels.com/photo/brown-wooden-table-with-chair-3097112/",
-			"src": "https://i.imgur.com/na4MdN3.jpeg"
+			"alt": "black mug branded with Jeejoh's logo",
+			"src": "images/shop/mugs/black-mug.jpg"
 		},
 		"images": [],
 		"price": {
-			"labor": 600,
-			"material": 3200
+			"labor": 0,
+			"material": 1000
 		}
 	},
 	{
 		"featured": true,
-		"path": "arched-wall",
-		"title": "House with Arched Wall",
-		"tags":["Shop","Resident"],
-		"date": "2021-07-17",
-		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime fugiat maiores aspernatur, porro doloribus eum velit, repellendus dignissimos dolor ipsa provident neque, quam ex voluptatibus cumque nostrum sequi nihil dolorum.",
+		"path": "tees",
+		"title": "Tees",
+		"tags":["Shop","Merchandise", "Cloths"],
+		"date": "2025-03-14",
+		"description": "Premium quality t-shirt for ultimate comfort and style. Made from soft, breathable fabric, perfect for everyday wear. Available in multiple sizes and colors.",
 		"image": {
-			"alt": "Photo by Rachel Claire from Pexels https://www.pexels.com/photo/interior-details-of-modern-bar-with-wooden-furniture-and-arched-wall-5490909/",
-			"src": "https://i.imgur.com/KwJxwQO.jpg"
+			"alt": "black tee",
+			"src": "images/shop/tees/tee-1.png"
 		},
 		"images": [
 			{
-				"alt": "Photo by Max Vakhtbovych from Pexels https://www.pexels.com/photo/contemporary-apartment-with-cozy-sofa-and-minimalist-furniture-6585764/",
-				"src": "https://i.imgur.com/7aMhZNV.jpg"
+				"alt": "purple tee",
+				"src": "images/shop/tees/tee-2.png"
 			},
 			{
-				"alt": "Photo by Dayvison de Oliveira Silva from Pexels https://www.pexels.com/photo/cozy-living-room-design-with-comfy-sofa-and-creative-lamp-5696287/",
-				"src": "https://i.imgur.com/gulpnN7.jpeg"
+				"alt": "grey tee",
+				"src": "images/shop/tees/tee-3.png"
 			}
 		],
 		"price": {
 			"labor": 800,
-			"material": 5000
-		}
-	},
-	{
-		"path": "contemporary-apartment",
-		"tags":["Resident"],
-		"title": "Contemporary apartment",
-		"date": "2021-07-17",
-		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid totam possimus est. Tempore perspiciatis optio voluptates qui iusto distinctio officiis, consequatur sequi, atque possimus ullam explicabo porro obcaecati, illo aspernatur.",
-		"image": {
-			"alt": "Living Room",
-			"src": "https://i.imgur.com/7aMhZNV.jpg"
-		},
-		"images": [
-			{
-				"alt": "Bedroom",
-				"src": "https://i.imgur.com/gulpnN7.jpeg"
-			},
-			{
-				"alt": "Photo by Kien Tran from Pexels https://www.pexels.com/photo/white-sofa-beside-black-table-5814952/",
-				"src": "https://i.imgur.com/JdN4l5M.jpeg"
-			}
-		],
-		"price": {
-			"labor": 900,
-			"material": 4000
+			"material": 200
 		}
 	},
 	{
 		"featured": true,
-		"path": "living-room",
-		"title": "Cozy living room",
-		"tags":["Resident"],
-		"date": "2021-07-18",
-		"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A magni incidunt veritatis alias at ut magnam, similique debitis necessitatibus. Deserunt officiis dolorum nisi quo nostrum doloribus magnam tempore laboriosam repellat.",
+		"path": "caps",
+		"title": "Caps",
+		"tags":["Shop","Merchandise", "Cloths"],
+		"date": "2025-03-14",
+		"description": "Stylish and comfortable cap designed for everyday wear. Made from high-quality, breathable fabric with an adjustable strap for a perfect fit. Whether you're shielding from the sun or completing your outfit, this cap has you covered.",
 		"image": {
-			"alt": "Bedroom",
-			"src": "https://i.imgur.com/gulpnN7.jpeg"
+			"alt": "cap",
+			"src": "images/shop/caps/cap-1.png"
 		},
 		"images": [
 			{
-				"alt": "house-table-luxury",
-				"src": "https://i.imgur.com/JdN4l5M.jpeg"
+				"alt": "cap",
+				"src": "images/shop/caps/cap-2.png"
 			}
+
 		],
 		"price": {
-			"labor": 830,
-			"material": 2000
+			"labor": 0,
+			"material": 800
 		}
-	},
-	{
-		"path": "table-luxury",
-		"title": "Hotel House with Table Luxury",
-		"tags":["Resident"],
-		"date": "2021-07-18",
-		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum sunt eveniet, a quam saepe architecto dolorem esse eos, in id, error dolores. Odio fuga quis nesciunt voluptas delectus nihil. Suscipit!",
-		"image": {
-			"alt": "house-table-luxury",
-			"src": "https://i.imgur.com/JdN4l5M.jpeg"
-		},
-		"images": [],
-		"price": {
-			"labor": 620,
-			"material": 3000
-		}
-	},
-	{
-		"featured": false,
-		"path": "home-office",
-		"title": "Home Office",
-		"tags":["isometric"],
-		"date": "2025-02-12",
-		"description": "An isometric illustration of a minimal home office with a desk, chair, and shelves. The room features a computer, plants, and decor.",
-		"image": {
-			"alt": "This image is generated by Ai (PicLumen)",
-			"src": "https://i.pinimg.com/736x/9f/d3/f0/9fd3f0f2e88a2272d773bed8c54ef0d9.jpg"
-		},
-		"images": [],
-		"price": {
-			"labor": 800,
-			"material": 0
-		}
-	},
-	{
-		"featured": false,
-		"path": "kitchen",
-		"title": "Kitchen",
-		"tags":["isometric"],
-		"date": "2025-02-12",
-		"description": "An isometric illustration of a compact kitchen with a dining area. The kitchen features wooden cabinets, a stove, sink, and refrigerator.",
-		"image": {
-			"alt": "This image is generated by Ai (PicLumen)",
-			"src": "https://i.pinimg.com/736x/52/b1/49/52b149470752634b5d04e8e191755403.jpg"
-		},
-		"images": [],
-		"price": {
-			"labor": 800,
-			"material": 0
-		}
-	},
-	{
-		"featured": false,
-		"path": "cozy-living-room",
-		"title": "Cozy Living Room",
-		"tags":["isometric"],
-		"date": "2025-02-12",
-		"description": "An isometric illustration of a cozy living room with a blue sofa, armchair, and coffee table. The room features a TV, bookshelves, and plants.",
-		"image": {
-			"alt": "This image is generated by Ai (PicLumen)",
-			"src": "https://i.pinimg.com/736x/72/ed/d8/72edd832dd2f612039b8a372e0c836d0.jpg"
-		},
-		"images": [],
-		"price": {
-			"labor": 800,
-			"material": 0
-		}
-	},
-	{
-		"featured": false,
-		"path": "cozy-bedroom-retreat",
-		"title": "Cozy Bedroom Retreat",
-		"tags":["isometric"],
-		"date": "2025-02-12",
-		"description": "Get inspired by this cozy bedroom design! Perfect for a relaxing night's sleep.",
-		"image": {
-			"alt": "This image is generated by Ai (PicLumen)",
-			"src": "https://i.pinimg.com/736x/f0/5d/20/f05d20090cb215c7bfe3c5b3248bf722.jpg"
-		},
-		"images": [],
-		"price": {
-			"labor": 800,
-			"material": 0
-		}
-	}
+	}		
+
 ]
