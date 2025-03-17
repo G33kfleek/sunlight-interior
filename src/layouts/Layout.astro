@@ -36,26 +36,36 @@
 </head>
 <body>
 	<div class="" style="font-family: 'MuseoModerno', sans-serif">
-		
-		<div class="flex flex-wrap justify-center items-center p-4">
-			<div class="">
-				<a class="inline-block p-4 text-xl" href="/">Home</a>
-			</div>
-			<div class="">
-				<a class="inline-block p-4 text-xl" href="/service">Shop</a>
-			</div>
-			<div class="">
-				<a class="inline-block p-4 text-xl" href="/furniture">Gallery</a>
-			</div>
-			<div class="">
-				<a class="inline-block p-4 text-xl" href="/#about">About</a>
-			</div>
-			<div class="">
-				<a class="inline-block p-4 text-xl" href="/#contact">Contact</a>
+		<div class="flex flex-wrap justify-between items-center p-4">
+       <!-- Logo on the left (Rounded) -->
+	   <div class="flex items-center">
+		<a href="/" class="mr-6">
+			<img src="/images/jk-empire.jpg" alt="Logo" class="h-12 w-12 rounded-full object-cover" />
+		</a>
+	</div>
+	
+			<!-- Navigation links centered -->
+			<div class="flex justify-center items-center">
+				<div class="">
+					<a class="inline-block p-4 text-xl" href="/">Home</a>
+				</div>
+				<div class="">
+					<a class="inline-block p-4 text-xl" href="/service">Shop</a>
+				</div>
+				<div class="">
+					<a class="inline-block p-4 text-xl" href="/furniture">Gallery</a>
+				</div>
+				<div class="">
+					<a class="inline-block p-4 text-xl" href="/#about">About</a>
+				</div>
+				<div class="">
+					<a class="inline-block p-4 text-xl" href="/#contact">Contact</a>
+				</div>
 			</div>
 		</div>
-		
+	
 		<slot />
+	</div>
 
 		<div
 			class="py-10 sm:py-20 lg:py-36 px-4 mx-auto container text-center grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4"
