@@ -8,7 +8,7 @@
 		"description": "Sleek and stylish black mug, perfect for your morning tea, coffee, or any hot beverage. Crafted for comfort and durability, it’s your go-to cup for a cozy sip every time.",
 		"image": {
 			"alt": "black mug branded with Jeejoh's logo",
-			"src": "images/shop/mugs/black-mug.jpg"
+			"src": "/images/shop/mugs/black-mug.jpg"
 		},
 		"images": [],
 		"price": {
@@ -25,16 +25,16 @@
 		"description": "Premium quality t-shirt for ultimate comfort and style. Made from soft, breathable fabric, perfect for everyday wear. Available in multiple sizes and colors.",
 		"image": {
 			"alt": "black tee",
-			"src": "images/shop/tees/tee-1.png"
+			"src": "/images/shop/tees/tee-1.png"
 		},
 		"images": [
 			{
 				"alt": "purple tee",
-				"src": "images/shop/tees/tee-2.png"
+				"src": "/images/shop/tees/tee-2.png"
 			},
 			{
 				"alt": "grey tee",
-				"src": "images/shop/tees/tee-3.png"
+				"src": "/images/shop/tees/tee-3.png"
 			}
 		],
 		"price": {
@@ -51,12 +51,12 @@
 		"description": "Stylish and comfortable cap designed for everyday wear. Made from high-quality, breathable fabric with an adjustable strap for a perfect fit. Whether you're shielding from the sun or completing your outfit, this cap has you covered.",
 		"image": {
 			"alt": "cap",
-			"src": "images/shop/caps/cap-1.png"
+			"src": "/images/shop/caps/cap-1.png"
 		},
 		"images": [
 			{
 				"alt": "cap",
-				"src": "images/shop/caps/cap-2.png"
+				"src": "/images/shop/caps/cap-2.png"
 			}
 
 		],

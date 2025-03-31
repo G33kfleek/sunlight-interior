@@ -1,26 +1,26 @@
 [
 	{
-		"image-source": "images/photos/jee-1.JPG",
+		"image-source": "/images/photos/jee-1.JPG",
 		"image-detail": "😉😎",
 		"image-shape": ""
 	},
 	{
-		"image-source": "images/photos/jee-2.png",
+		"image-source": "/images/photos/jee-2.png",
 		"image-detail": "😁👍",
 		"image-shape": ""
 	},
 	{
-		"image-source": "images/photos/jee-3.jpg",
+		"image-source": "/images/photos/jee-3.jpg",
 		"image-detail": "😎👌",
 		"image-shape": ""
 	},
 	{
-		"image-source": "images/photos/jee-4.png",
+		"image-source": "/images/photos/jee-4.png",
 		"image-detail": "✨👏",
 		"image-shape": ""
 	},
 	{
-		"image-source": "images/photos/jee-5.jpeg",
+		"image-source": "/images/photos/jee-5.jpeg",
 		"image-detail": "👍👍",
 		"image-shape": ""
 	}
