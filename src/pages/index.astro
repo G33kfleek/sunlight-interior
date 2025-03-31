@@ -2,6 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 import services from "../lib/services.json";
 import Carousel from '../components/Carousel.svelte'
+import BlogPosts from "../components/BlogPosts.svelte";
 
 let data = {
 	title: "Jeejoh King", 
@@ -69,6 +70,16 @@ My mission is simple: to Guide, Inspire, and Uplift. Through every note I play a
 					📩 Chat on WhatsApp
 				</a>
 			</div>
+			
 		</div>
 	</div>
+
+	<!-- Client-side script for fetching Blogger posts -->
+
+
+	<div class="container mx-auto px-4 py-10">
+		<h2 class="text-2xl font-bold mb-4">Blogs & Events</h2>
+		<BlogPosts client:load />
+	</div>
+
 </Layout>
